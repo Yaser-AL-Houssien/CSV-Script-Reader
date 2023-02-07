@@ -8,5 +8,5 @@ Once you have installed the SDK, install the tool using the command:
 
 # Running scripts
 
-ddotnet script CsvReader.csx  {../filepath} i{ndex-number} {name}
+ddotnet script CsvReader.csx  {../filepath} {index-number} {name}
 
